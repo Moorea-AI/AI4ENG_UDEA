@@ -4,7 +4,7 @@
 ## Miembros del grupo
 
 - Aura Luz Moreno Díaz, CC 43758500, Ingeniería Industrial
-- Juan José Molina Ocampo, CC , Ingeniería Industrial
+- Juan José Molina Ocampo, CC 1007362144, Ingeniería Industrial
 
 ## Datos
 
