@@ -1,5 +1,5 @@
 # AI4ENG Project
-# Proyecto SANTANDER
+# Proyecto Fraude en Transacciones Electrónicas
 
 ## Miembros del grupo
 
@@ -8,7 +8,7 @@
 
 ## Datos
 
-Los datos del proyecto vienen del [dataset de Kaggle Santander](https://www.kaggle.com/datasets/thedevastator/weed-plant-taxonomy-in-france-and-uk), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
+Los datos del proyecto vienen del [dataset de Kaggle IEEE-CIS](https://www.kaggle.com/competitions/ieee-fraud-detection/data?select=test_transaction), y se pueden hacer disponibles ejecutando desde cualquier notebook en Colab los siguientes comandos
 
-    
+kaggle competitions download -c ieee-fraud-detection  
 
