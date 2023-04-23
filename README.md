@@ -13,3 +13,6 @@ Los datos del proyecto vienen del [dataset de Kaggle IEEE-CIS](https://www.kaggl
 
 kaggle competitions download -c ieee-fraud-detection  
 
+
+## Videos
+
