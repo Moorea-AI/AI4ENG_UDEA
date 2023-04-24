@@ -15,4 +15,6 @@ kaggle competitions download -c ieee-fraud-detection
 
 
 ## Videos
+- [Video primera entrega](https://youtu.be/S_4SA7cbO2s)
+
 
