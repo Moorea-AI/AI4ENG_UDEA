@@ -4,8 +4,7 @@
 
 ## Miembros del grupo
 
-- Aura Luz Moreno Díaz, CC 43758500, Ingeniería Industrial
-- Evelyn Zharick Saez Gallego, CC 1006776490, Ingeniería Ambiental
+- Aura Luz Moreno Díaz, Ingeniería Industrial
 
 ## Datos
 
